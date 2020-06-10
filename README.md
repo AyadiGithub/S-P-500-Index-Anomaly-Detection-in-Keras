@@ -1,6 +1,6 @@
-# S-P-500-Index-Anomaly-Detection-in-Keras
+# S-P-500-Index-Price-Anomaly-Detection-in-Keras
 
-## S&P 500 Index Anomaly Detection in Time Series Data with Keras
+## S&P 500 Index Price Anomaly Detection in Time Series Data with Keras
 
 ## Project Objective:
 - Design and Build an LSTM Autoencoder in Keras
