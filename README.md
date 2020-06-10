@@ -3,9 +3,9 @@
 S&P 500 Index Anomaly Detection in Time Series Data with Keras
 
 Project Objective:
-    Design and Build an LSTM Autoencoder in Keras
-    Detect anomalies (sudden price changes) in the S&P 500 index
-    Data range: 1986 - 2020
+- Design and Build an LSTM Autoencoder in Keras
+- Detect anomalies (sudden price changes) in the S&P 500 index
+- Data range: 1986 - 2020
 
 The S&P 500 is a stock performance indicator for the Top 500 Companies listed on the stock exchange in the United States. 
 It is considered as one of the best representations of the United States stock market.
