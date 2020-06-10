@@ -28,7 +28,7 @@ Source of Dataset: Yahoo Finance
 6. Train the Autoencoder
 7. Plot Metrics and Evaluate the Model
 8. Detect Anomalies in the S&P 500 Index Data
-9. Visualize
+9. Visualize the Anomalies based on threshold
 
 ## The required libraries:
 - Numpy
