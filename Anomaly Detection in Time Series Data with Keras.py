@@ -9,7 +9,9 @@ Project Objective:
 
 The dataset is a CSV format with: 
     1. Daily timestamp
-    2. Un-adjusted closing prices for each day.
+    2. Daily opening and closing price
+    3. Daily High and Low price
+    4. Volume
 
 
 Task 1: Project Overview and Import Libraries
@@ -52,10 +54,10 @@ print('Tensorflow version: ', tf.__version__)
 2. Loading and Inspecting the Dataset:
 
 The Dataset is a time series with daily un-adjusted closing price for the S&P 500 Index.
-The S&P 500 is a stock performance indicator for the Top 500 companies list on the stock exchange in the United States. 
+The S&P 500 is a stock performance indicator for the Top 500 companies listed on the stock exchange in the United States. 
 It is considered as one of the best representations of the United States stock market. 
 
-- Source of Dataset: Yahoo finance
+- Source of Dataset: Yahoo Finance
 
 """
 
